@@ -10,5 +10,6 @@
 4. Yakobus Iryanto Prasethio (16520120)
 
 ## Flowchart Sistem
-
+![Flowchart Sistem](https://github.com/bostang/STEITunes/blob/main/flowchart_sistem.png)
 ## Demonstasi
+![Video Demonstrasi](https://github.com/bostang/STEITunes/blob/main/STEITunes.gif)
